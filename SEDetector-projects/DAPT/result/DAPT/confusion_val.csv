@@ -1,6 +1,0 @@
-true/pred,Benign,CommandAndControl,Discovery,Exfiltration,LateralMovement
-Benign,6599,0,0,1,6
-CommandAndControl,5,251,0,38,1
-Discovery,5,13,488,6,0
-Exfiltration,149,213,69,948,436
-LateralMovement,340,10,26,148,1729

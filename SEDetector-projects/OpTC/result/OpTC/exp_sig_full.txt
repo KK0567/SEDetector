@@ -1,1 +1,0 @@
-modehead_kd_emb256_L2_dp0.2_lr0.0005_wd0.0001_bs128_ep120_tau0.07_pm3_redlogsumexp_ladj0.08sub_fg1_headtau0.05_kda0.5_kdT2_seed42
